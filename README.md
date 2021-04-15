@@ -116,6 +116,11 @@ conda activate <env_name>
 ```python
 conda install pytorch torchvision cpuonly -c pytorch
 ```
+安装完成之后，大家可以使用conda安装ipython, ipython的交互更美观一点。
+
+```python
+conda install ipython
+```
 
 安装完成后，可以使用以下查看是否成功：
 
